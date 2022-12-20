@@ -1,0 +1,106 @@
+{
+  "project_info": {
+    "project_number": "217313590207",
+    "firebase_url": "https://chatappfirebase-9a98d-default-rtdb.firebaseio.com",
+    "project_id": "chatappfirebase-9a98d",
+    "storage_bucket": "chatappfirebase-9a98d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:217313590207:android:19543c24f0c2b875093f0a",
+        "android_client_info": {
+          "package_name": "com.developer.chatappfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "217313590207-esuvqhkfv4h5f8nahb95aaghond3j9q3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.developer.chatappfirebase",
+            "certificate_hash": "d0dad3a163421adf4170cde56ce6acd39386caf7"
+          }
+        },
+        {
+          "client_id": "217313590207-8dd36r83n9mvfnhrulj0qug21qm8kt1r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrH_0YlSJiZkQ9V6RJSAliSbq963Ievrk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "217313590207-8dd36r83n9mvfnhrulj0qug21qm8kt1r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:217313590207:android:d35b2ce777c33e5f093f0a",
+        "android_client_info": {
+          "package_name": "com.developer.firebasedatabase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "217313590207-8dd36r83n9mvfnhrulj0qug21qm8kt1r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrH_0YlSJiZkQ9V6RJSAliSbq963Ievrk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "217313590207-8dd36r83n9mvfnhrulj0qug21qm8kt1r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:217313590207:android:fc3b9c321f1135d5093f0a",
+        "android_client_info": {
+          "package_name": "com.developer.firebasestorege"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "217313590207-8dd36r83n9mvfnhrulj0qug21qm8kt1r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrH_0YlSJiZkQ9V6RJSAliSbq963Ievrk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "217313590207-8dd36r83n9mvfnhrulj0qug21qm8kt1r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
